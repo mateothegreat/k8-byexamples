@@ -1,0 +1,3 @@
+[submodule "k8-byexamples-/.make"]
+	path = k8-byexamples-/.make
+	url = https://github.com/mateothegreat/.make

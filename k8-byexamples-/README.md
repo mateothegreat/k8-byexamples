@@ -14,3 +14,21 @@
 #
 
 > k8 by example -- straight to the point, simple execution.
+
+## Usage
+
+```sh
+
+```
+
+## Install
+
+```sh
+
+```
+
+## Delete
+
+```sh
+
+```
